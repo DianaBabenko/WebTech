@@ -1,0 +1,11 @@
+body {
+	background-image: url('https://cdn-images-1.medium.com/max/2000/1*794-V9wiTg8114g6WcRpzQ.jpeg');
+	background-repeat: no-repeat center center fixed;
+	background-size: cover;
+	text-align: justify;
+	margin-top: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+	font-size: 18px;
+}

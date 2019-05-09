@@ -1,0 +1,73 @@
+body {
+	color: #000;
+	background-image: url('https://avatars.mds.yandex.net/get-pdb/33827/5ffb689b-79fe-4f3f-892c-6bf5db6ab8fd/s1200');
+	text-align: justify;
+	margin-top: 2%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+	font-size: 18px;
+	/*padding: 5%;*/
+}
+
+.slogan {
+	font-weight: bold;
+	padding: 2%;
+	text-align: center;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.links a:hover {
+	color: #CDBB31;
+}
+
+.links a:active {
+	color: #36DF1F;
+}
+
+.links a:visited {
+	color: red;
+}
+
+.mainInfo {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 3%;
+	text-align: justify;
+}
+
+.additional {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 5%;
+	text-align: center;
+}
+
+.contact {
+	background-color: rgba(0, 0, 0, 0.7);
+	font-weight: bold;
+	padding: 1%;
+	margin-top: 4%;
+	text-align: center;
+	color: #fff;
+	line-height: 200%;
+}
+
+.image {
+	width:80%;
+	height: 50%;
+	border-radius: 15px;	
+}
+
+h2 {
+	text-indent: 1em;
+}
+
+.title {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+p.describe {
+	padding: 3%;
+	text-align: justify;
+}
